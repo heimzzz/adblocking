@@ -1,58 +1,57 @@
-jdoqocy.com # Slickdeals
-redirectingat.com # Slickdeals
-tkqlhce.com # Slickdeals
-dpbolvw.net # Slickdeals
+7eer.net # Slickdeals
+ad.doubleclick.net # Slickdeals
+affiliatefuture.com # Slickdeals
 anrdoezrs.net # Slickdeals
 apmebf.com # Slickdeals
-emjcd.com # Slickdeals
+avantlink.com # Slickdeals
+bfast.com # Slickdeals
+cc-dt.com # Slickdeals
+cj.com # Slickdeals
+clickserve.cc-dt.com # Slickdeals
 commission-junction.com # Slickdeals
-qksrv.net # Slickdeals
+doubleclick.net # Slickdeals
+dpbolvw.net # Slickdeals
+emjcd.com # Slickdeals
+evyy.net # Slickdeals
+gan.doubleclick.net # Slickdeals
+go.redirectingat.com # Slickdeals
+go.skimresources.com # Slickdeals
+go2jump.org # Slickdeals
+gopjn.com # Slickdeals
+jdoqocy.com # Slickdeals
 kqzyfj.com # Slickdeals
 linksynergy.com # Slickdeals
-cc-dt.com # Slickdeals
-clickserve.cc-dt.com # Slickdeals
-shareasale.com # Slickdeals
-affiliatefuture.com # Slickdeals
-avantlink.com # Slickdeals
-pntra.com # Slickdeals
-gopjn.com # Slickdeals
-pntrack.com # Slickdeals
+ojrq.net # Slickdeals
+onenetworkdirect.net # Slickdeals
 pjtra.com # Slickdeals
 pjatr.com # Slickdeals
 pntra.com # Slickdeals
 pntrac.com # Slickdeals
+pntrack.com # Slickdeals
+qksrv.net # Slickdeals
 redirect.at # Slickdeals
-onenetworkdirect.net # Slickdeals
-go2jump.org # Slickdeals
-doubleclick.net # Slickdeals
-gan.doubleclick.net # Slickdeals
-ad.doubleclick.net # Slickdeals
-evyy.net # Slickdeals
-bfast.com # Slickdeals
-cj.com # Slickdeals
-7eer.net # Slickdeals
-ojrq.net # Slickdeals
-fls-na.amazon.com # Amazon app
-c.amazon-adsystem.com # Amazon app
-device-metrics-us.amazon.com # Amazon app
+redirectingat.com # Slickdeals
+shareasale.com # Slickdeals
+tkqlhce.com # Slickdeals
+www.emjcd.com # Slickdeals
+www.ojrq.net # Slickdeals
+www.tkqlhce.com # Slickdeals
 aan.amazon.com # Amazon app
 aax-us-iad.amazon.com # Amazon app
-go.redirectingat.com # Slickdeals
-go.skimresources.com # Slickdeals
+c.amazon-adsystem.com # Amazon app
+device-metrics-us.amazon.com # Amazon app
+fls-na.amazon.com # Amazon app
+s.amazon-adsystem.com # Amazon app
+ag.innovid.com # Hulu
 cws-hulu.conviva.com # Hulu
 hulu-lr.hb-api.omtrdc.net # Hulu
 s.innovid.com # Hulu
 t2.hulu.com # Hulu
-ag.innovid.com # Hulu
-www.ojrq.net # Slickdeals
-mobile-collector.newrelic.com # Polaroid Photo Frame
-app-measurement.com # Polaroid Photo Frame
-api.segment.io # Polaroid Photo Frame
-device-api.urbanairship.com # Polaroid Photo Frame
-config.emb-api.com # Polaroid Photo Frame
-data.emb-api.com # Polaroid Photo Frame
 alog.umeng.com # Polaroid Photo Frame
 alog.umengcloud.com # Polaroid Photo Frame
-www.tkqlhce.com # Slickdeals
-www.emjcd.com # Slickdeals
-s.amazon-adsystem.com # Amazon app
+api.segment.io # Polaroid Photo Frame
+app-measurement.com # Polaroid Photo Frame
+config.emb-api.com # Polaroid Photo Frame
+data.emb-api.com # Polaroid Photo Frame
+device-api.urbanairship.com # Polaroid Photo Frame
+mobile-collector.newrelic.com # Polaroid Photo Frame
