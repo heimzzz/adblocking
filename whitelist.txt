@@ -58,3 +58,8 @@ mobile-collector.newrelic.com # Polaroid Photo Frame
 content22.online.citi.com # Citibank
 idsync.rlcdn.com # Citibank
 api.rlcdn.com # Citibank
+api2.amplitude.com # Citibank 
+stags.bluekai.com # Citibank
+nexus.ensighten.com # Citibank
+aa.online-metrix.net # Citibank
+h.online-metrix.net # Citibank
