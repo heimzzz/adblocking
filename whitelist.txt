@@ -56,3 +56,5 @@ data.emb-api.com # Polaroid Photo Frame
 device-api.urbanairship.com # Polaroid Photo Frame
 mobile-collector.newrelic.com # Polaroid Photo Frame
 content22.online.citi.com # Citibank
+idsync.rlcdn.com # Citibank
+api.rlcdn.com # Citibank
