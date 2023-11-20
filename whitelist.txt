@@ -65,6 +65,11 @@ aa.online-metrix.net # Citibank
 h.online-metrix.net # Citibank
 dpm.demdex.net # Citibank
 c.tvpixel.com # Citibank
+p.tvpixel.com # Citibank
+cdn.boomtrain.com # Citibank
+people.api.boomtrain.com # Citibank
+events.api.boomtrain.com # Citibank
+sb.scorecardresearch.com # Citibank
 sr.rlcdn.com # Citibank
 lptag.liveperson.net # Citibank
 live.rezync.com # Citibank
