@@ -69,3 +69,5 @@ sr.rlcdn.com # Citibank
 lptag.liveperson.net # Citibank
 live.rezync.com # Citibank
 metrics1.citi.com # Citibank
+cdn.boomtrain.com # Citibank
+i.liadm.com # Citibank
